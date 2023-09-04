@@ -1,3 +1,12 @@
-﻿Console.WriteLine("Hola, prueba git. Una modificacion mas");
-Console.WriteLine("Hola, prueba git. Una modificacion mas");
-Console.WriteLine("Hola, prueba git. Una modificacion mas");
+﻿void MiPrimerMetodo()
+{
+    //Haz algo
+}
+void MiSegundoMetodo()
+{
+    //Haz algo
+}
+void MiTercerMetodo()
+{
+    //Haz algo
+}
